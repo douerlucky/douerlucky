@@ -1,17 +1,30 @@
-<div id="title" align=center>
+<div align="center">
 
-![Modern C++ template][github-sub-title:img]
+# Hi 👋 I'm Douer Lucky
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/channel/UCey35Do4RGewqr-6EiaCJrg)
+![](https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=500&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Apple+Developer;AI+Explorer;Spatial+Computing;Building+delightful+AI+experiences.)
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
+<br>
+
+![](https://img.shields.io/badge/Apple-Developer-black?style=flat-square&logo=apple)
+![](https://img.shields.io/badge/Swift-SwiftUI-orange?style=flat-square&logo=swift)
+![](https://img.shields.io/badge/visionOS-Spatial%20Computing-blue?style=flat-square)
+![](https://img.shields.io/badge/AI-Agent-success?style=flat-square)
+![](https://img.shields.io/badge/HCI-Human%20Computer%20Interaction-purple?style=flat-square)
+
+<br>
+
+![](https://img.shields.io/badge/School-HZAU-9cf?style=flat-square)
+![](https://img.shields.io/badge/Major-Computer%20Science-blue?style=flat-square)
+![](https://img.shields.io/badge/Language-English%20%7C%20日本語-green?style=flat-square)
 
 </div>
 
-![头像](image/头像.jpg)
+---
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=mq白.
+### 🍋 About
+
+- 🎓 CS Undergraduate @ Huazhong Agricultural University
+- 🍎 Apple Ecosystem · SwiftUI · visionOS
+- 🤖 AI Agent · Knowledge Graph · Human-Computer Interaction
+- ✨ Making AI feel invisible.
