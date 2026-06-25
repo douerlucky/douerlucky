@@ -1,0 +1,85 @@
+<svg width="780" height="210" viewBox="0 0 780 210" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#FAF8FF"/>
+<stop offset="100%" stop-color="#F2EEFF"/>
+</linearGradient>
+
+<filter id="shadow">
+<feDropShadow dx="0" dy="8" stdDeviation="14"
+ flood-color="#DDD6FE"
+ flood-opacity="0.55"/>
+</filter>
+
+</defs>
+
+<rect
+x="15"
+y="15"
+rx="34"
+ry="34"
+width="750"
+height="180"
+fill="url(#bg)"
+stroke="#ECE9FF"
+stroke-width="1"
+filter="url(#shadow)"/>
+
+<text
+x="45"
+y="70"
+font-size="34"
+font-weight="700"
+font-family="SF Pro Display, Inter"
+fill="#1F2937">
+
+🤖 FQMA
+
+</text>
+
+<text
+x="45"
+y="105"
+font-size="20"
+font-family="SF Pro Display"
+fill="#64748B">
+
+Federated Query Multi-Agent Framework
+
+</text>
+
+<text
+x="45"
+y="145"
+font-size="16"
+font-family="SF Pro Display"
+fill="#94A3B8">
+
+AI Agent · Knowledge Graph · Ontology
+
+</text>
+
+<rect
+x="560"
+y="55"
+width="160"
+height="48"
+rx="24"
+fill="#DDD6FE"/>
+
+<text
+x="640"
+y="86"
+text-anchor="middle"
+font-size="18"
+font-weight="600"
+font-family="SF Pro Display"
+fill="#6D28D9">
+
+View →
+
+</text>
+
+</svg>
