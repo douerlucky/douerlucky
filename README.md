@@ -1,45 +1,44 @@
+<div align="center">
+
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td width="62%" align="center">
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=400&size=20&duration=3000&pause=1500&color=7DD3FC&center=true&vCenter=true&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+douer_lucky%EF%BC%81;Hello,+I'm+douer_lucky!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81douer_lucky%E3%81%A7%E3%81%99%E3%80%82"/>
 
-![](https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=400&size=20&duration=3000&pause=1500&color=7DD3FC&center=true&vCenter=true&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+douer_lucky%EF%BC%81;Hello,+I'm+douer_lucky!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81douer_lucky%E3%81%A7%E3%81%99%E3%80%82)
+<br><br>
 
-<br>
+<img src="https://img.shields.io/badge/Apple-Developer-black?style=flat-square&logo=apple"/>
+<img src="https://img.shields.io/badge/Full--Stack-Developer-22C55E?style=flat-square&logo=stackblitz"/>
+<img src="https://img.shields.io/badge/AI-Agent-412991?style=flat-square&logo=openai"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Designer-F24E1E?style=flat-square&logo=figma"/>
 
-![](https://img.shields.io/badge/Apple-Developer-black?style=flat-square&logo=apple)
-![](https://img.shields.io/badge/Full--Stack-Developer-22C55E?style=flat-square&logo=stackblitz)
-![](https://img.shields.io/badge/AI-Agent-412991?style=flat-square&logo=openai)
-![](https://img.shields.io/badge/UI%2FUX-Designer-F24E1E?style=flat-square&logo=figma)
+<br><br>
 
-<br>
-
-![](https://img.shields.io/badge/SwiftUI-visionOS-F05138?style=flat-square&logo=swift)
-![](https://img.shields.io/badge/ArkTS-HarmonyOS-0A59F7?style=flat-square&logo=harmonyos)
-![](https://img.shields.io/badge/Anime-Lover-FF4D6D?style=flat-square&logo=myanimelist)
-
-</div>
+<img src="https://img.shields.io/badge/SwiftUI-visionOS-F05138?style=flat-square&logo=swift"/>
+<img src="https://img.shields.io/badge/ArkTS-HarmonyOS-0A59F7?style=flat-square&logo=harmonyos"/>
+<img src="https://img.shields.io/badge/Anime-Lover-FF4D6D?style=flat-square&logo=myanimelist"/>
 
 </td>
 
-<td width="40%" align="center">
+<td width="38%" align="center">
 
-<img
-src="https://github.com/douerlucky/douerlucky/blob/main/image/nijika.gif?raw=true"
-height="180">
+<img src="https://github.com/douerlucky/douerlucky/blob/main/image/nijika.gif?raw=true" height="180"/>
 
 </td>
 
 </tr>
 </table>
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=swift,cpp,python,nodejs,postgres,mysql,git,github,vscode,figma"/>
-
 </p>
 
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=%E3%80%8C%E9%81%8E%E3%81%8E%E5%8E%BB%E3%82%8C%E3%81%B0%20%E3%81%BE%E3%81%9F%E5%AD%A3%E3%81%AF%E5%B7%A1%E3%82%8A%E3%80%8D&author=Petals%20%C2%B7%20Orangestar&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+<img src="https://readme-daily-quotes.vercel.app/api?quote=%E3%80%8C%E9%81%8E%E3%81%8E%E5%8E%BB%E3%82%8C%E3%81%B0+%E3%81%BE%E3%81%9F%E5%AD%A3%E3%81%AF%E5%B7%A1%E3%82%8A%E3%80%8D&author=Petals%C2%A0%C2%B7%C2%A0Orangestar&theme=light&border_radius=20&font=trebuchet_ms"/>
+</p>
+
 </div>
 
 
