@@ -3,7 +3,7 @@
 <table>
 <tr>
 
-<td width="62%" align="center">
+<td width="75%" align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=400&size=20&duration=3000&pause=1500&color=7DD3FC&center=true&vCenter=true&width=500&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+douer_lucky%EF%BC%81;Hello,+I'm+douer_lucky!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81douer_lucky%E3%81%A7%E3%81%99%E3%80%82"/>
 
